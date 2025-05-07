@@ -26,13 +26,13 @@ This project is a simple desktop YouTube video downloader developed with Python.
 The user can easily download to the desired folder by entering the video link and selecting the resolution/format.
 
 ## Features
-Simple and understandable interface (Tkinter)
-Working with YouTube video URL
-Selecting the video format and resolution
-Show download status with the progress bar
-Download that works without freezing the interface (thread support)
-stable download thanks to yt-dlp infrastructure
+- Simple and understandable interface (Tkinter)
+- Working with YouTube video URL
+- Selecting the video format and resolution
+- Show download status with the progress bar
+- Download that works without freezing the interface (thread support)
+- stable download thanks to yt-dlp infrastructure
 
 ## Requirements
-Python 3.7+
-yt-dlp library:
+- Python 3.7+
+- yt-dlp library:
